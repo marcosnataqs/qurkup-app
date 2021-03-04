@@ -1,6 +1,6 @@
 # qurkup
 
-Aplicação para facilitar a vida dos grupos de estudantes e universidades.
+Flutter App with MobX Slidy
 
 ## Getting Started
 
