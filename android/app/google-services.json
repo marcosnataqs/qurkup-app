@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "614442679294",
+    "firebase_url": "https://qurkup-app.firebaseio.com",
+    "project_id": "qurkup-app",
+    "storage_bucket": "qurkup-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614442679294:android:d6b50a9ecb8bad8bc55eaf",
+        "android_client_info": {
+          "package_name": "com.qurkup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "614442679294-4i8d6o2s7esv9moo72kuct03qa9tcktn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.qurkup",
+            "certificate_hash": "8cc354be056fa9bb76d88d9bf901d1862297c3a2"
+          }
+        },
+        {
+          "client_id": "614442679294-nb5l4fe082vv8okp3t0v7pf5dv3pm1f3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuM4ztpeT_tBtKoYqbzq44W_8ZFi-ztDA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "614442679294-nb5l4fe082vv8okp3t0v7pf5dv3pm1f3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
